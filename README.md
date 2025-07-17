@@ -1,2 +1,2 @@
 # My-Website
-This are the codes for my online digital store.
+These are the codes for my online digital store.
